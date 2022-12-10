@@ -4,6 +4,7 @@ We have included the author's code and the one we wrote my self as well.
 
 # Key Points 
 <step>
+  
 1. Open labtop webcam to run 
 2. Crop the image after detecting eye image
 3. Collapse the cropped eye image
