@@ -12,7 +12,7 @@ We have included the author's code and the one we wrote my self as well.
 5. Mosaic the detected eye image and display it on the webcam.
 6. Outputs the number of detected eye areas at the same time.
 
-# Requirements: (with versions i tested on)
+# Requirements: (with versions we tested on)
 1. python (3.7.4)
 2. opencv (4.6.0)
 3. numpy(1.21.6)
