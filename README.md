@@ -1,5 +1,5 @@
-# OPENSW Open the webcam with OpenCV and recognize and mosaic the eyes
-> Mosaic Handler with OpenCV and Python. This project is inspired from his blog: [blog](https://jinho-study.tistory.com/231)
+# Open the webcam with OpenCV and recognize and mosaic the eyes
+> Mosaic Handler with OpenCV and Python. This project is inspired from his blog: [Open the webcam with OpenCV and recognize and mosaic the eyes](https://jinho-study.tistory.com/231)
 We have included the author's code and the one we wrote my self as well.
 
 # Key Points 
