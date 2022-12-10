@@ -5,11 +5,16 @@ We have included the author's code and the one we wrote my self as well.
 # Key Points 
 <step>
 1. Open labtop webcam to run 
+
 2. Crop the image after detecting eye image
+
 3. Collapse the cropped eye image
+
 4. Zoom in on the cropped eye image
+
 5. Mosaic the detected eye image and display it on the webcam.
-6. Outputs the number of detected eye areas at the same time.
+
+  6. Outputs the number of detected eye areas at the same time.
 
 # Requirements: (with versions i tested on)
 1. python (3.7.4)
