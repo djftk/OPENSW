@@ -27,6 +27,6 @@ it automatically recognizes your eyes and mosaic them.
 In some cases, the mouth is recognized when speaking 
 with the mouth open. Even if you wear a mask, 
 you can only recognize your eyes.
-![result](img width="478" alt="result" src="https://user-images.githubusercontent.com/113023190/206858506-8933faf7-13eb-4530-b0b5-1dbcdf52d987.png")
+![result](https://user-images.githubusercontent.com/113023190/206858506-8933faf7-13eb-4530-b0b5-1dbcdf52d987.png)
 
 
